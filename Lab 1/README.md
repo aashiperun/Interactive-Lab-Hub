@@ -158,8 +158,13 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Include sketches of what your device might look like here.**\*\*
 
+<img width="1065" alt="Screen Shot 2022-08-30 at 1 38 13 AM" src="https://user-images.githubusercontent.com/66789469/187358142-0d7b7e62-abe3-4cbd-8e17-5d9eb38e746d.png">
+
+
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
+* I've added the Color changing LED to the upper part of the toothbrush, so that the user can still see the LED while holding the toothbrush.
+* Concern: The LED on the toothbrush might be too small to capture the user's attention.
 
 ## Part F. Record
 
