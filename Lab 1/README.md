@@ -70,14 +70,22 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
+The Interactive Device I am building is a Smart Toothbrush.
+
+<img width="614" alt="image" src="https://user-images.githubusercontent.com/66789469/187313719-806dd0e2-6997-4658-bb7e-613fe86dd6f8.png">
+
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include a picture of your storyboard here**\*\*
+
+![Untitled (3)](https://user-images.githubusercontent.com/66789469/187329394-eb5cf28b-f71e-4a68-93ea-68f77732358b.jpg)
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
 
+1) The user might find it frustrating while waiting for the light color to change. 
+2) Can the light provide any other information other than just acting as a timer?
 
 ## Part B. Act out the Interaction
 
@@ -85,8 +93,32 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+* Looking at the same color for one minute felt like a dull process, since the light was telling me nothing other than the time duration I was brushing for.
+* The anticipation of the light changing made me feel like it was longer than a minute.
+* I would like to convey more information to the user through the light to keep the user engaged.
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+New Idea : 
+* Breakdown the steps of Brushing into the following steps:
+
+   * Step 1: Brush the Outer Surface of the Upper Teeth.
+   * Step 2: Brush the Outer Surface of the Lower Teeth.
+   * Step 3: Brush the Biting Surface of the Upper Teeth.
+   * Step 4: Brush the Biting Surface of the Lower Teeth.
+   * Step 5: Brush the Inner Surface of the Upper Teeth.
+   * Step 6: Brush the Inner Surface of the Lower Teeth.
+
+* Since there are six steps and the recommended duration for brushing your teeth is 2 minutes. I am diving all the steps into equal durations of time.
+Each Step will be done for 20 seconds.
+
+* I am going to allocate colors for each step. Everytime the toothbrush changes its color, the user will perform the step associated with it.
+
+    <img width="257" alt="image" src="https://user-images.githubusercontent.com/66789469/187323964-ffdbfa2c-6fe7-4666-946f-b2eaaf2c6d30.png">
+
+* Storyboard for New Idea:
+
+    ![Untitled (4)](https://user-images.githubusercontent.com/66789469/187329303-52d8a817-432d-44bf-a6ab-f242253f4703.jpg)
 
 ## Part C. Prototype the device
 
@@ -99,7 +131,8 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
-
+I did face an issue while trying to install the requirements.txt
+Fix: Changed Gevent version to v21.12.0 and greenlet to >= 1.1.0 in the requirements.txt file.
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
