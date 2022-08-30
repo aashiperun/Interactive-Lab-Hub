@@ -67,9 +67,9 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
-I did face an issue while trying to install the requirements.txt
 
-Fix: Changed Gevent version to v21.12.0 and greenlet to >= 1.1.0 in the requirements.txt file.
+  * I did face an issue while trying to install the requirements.txt
+  * Fix: Changed Gevent version to v21.12.0 and greenlet to >= 1.1.0 in the requirements.txt file.
 
 ## Part D. Wizard the device
 
