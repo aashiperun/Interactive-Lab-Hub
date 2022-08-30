@@ -132,6 +132,7 @@ If you run into technical issues with this tool, you can also use a light switch
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 I did face an issue while trying to install the requirements.txt
+
 Fix: Changed Gevent version to v21.12.0 and greenlet to >= 1.1.0 in the requirements.txt file.
 
 ## Part D. Wizard the device
@@ -145,6 +146,9 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 \*\***Show the follow-up work here.**\*\*
 
+* While trying the set-up for the first time, I had to constantly look down at the phone screen to see the color, which was inconvinient. 
+* To make the device more user-friendly, I am adding the color indicating light on the toothbrush as shown below.
+    * <img width="217" alt="Screen Shot 2022-08-30 at 12 56 56 AM" src="https://user-images.githubusercontent.com/66789469/187352643-b957e54b-0bcc-4e32-a6fb-67a31bbbc7c4.png">
 
 ## Part E. Costume the device
 
@@ -160,6 +164,8 @@ Think about the setting of the device: is the environment a place where the devi
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+
+https://drive.google.com/file/d/1nUVVzPG4UXP5E_6qMvV0WUXcOatT7RGS/view?usp=sharing
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
