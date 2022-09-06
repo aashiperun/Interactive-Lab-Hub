@@ -114,9 +114,16 @@ This describes the second week's work for this lab activity.
 
 ## Prep (to be done before Lab on Wednesday)
 
-You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
-
 \*\***Summarize feedback from your partners here.**\*\*
+
+Elyse Toder: When a person is holding the toothbrush they may not be able to see the color changing unless they stand in front of mirror. You could add another indicator to catch the user's attention.
+
+Ravi Niteesh Voleti: You can use a vibration every 20 seconds to alert the user to brush a different portion of their teeth.
+
+Sarang Pramode: Add a voice alert/message every time the light changes or even just a "ding" sound. For example: "Brush biting surface of Upper Teeth now". 20 seconds later: "Brush inner surface of Upper Teeth now".
+
+Feedback from TA:
+Nice and clearly documentation, Aashika! The storyboards are very clear and also the sketches are easy to understand. One thing I would suggest is to explore the novelty of this idea, since this kind of device has already been implemented in a lot of smart toothbrushes. The video is clear in delivering the message as well! Overall good work!
 
 ## Make it your own
 
@@ -126,3 +133,26 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+Based on the feedback received, I want to focus on the following parameters while improving my product:
+1) Novelty
+  * I looked at the existing Smart Toothbrushes. Some of the existing products that are similar to my proposed idea were:
+        * Philips Sonicare 9900 Prestige 
+        * Oral-B Genius Pro 8000
+  * Both of these brushes interfaced with an app which showed the user which portion of the teeth they should brush and used light as an indicator.
+  * Both of them used pressure/vibration to alert the user.
+  * None of them used sound as a modality to alert the user.
+      
+2) Using sound as additional indicator to catch the User's Attention
+  * Instead of just using a "ding" or "voice alert" I want to use music as my sound alert to catch the user's attention.
+  * Listening to music in the morning is recommended because it improves brain functionality and is good for a person's mental well-being.
+
+Concept for new idea:
+
+![Untitled (7)](https://user-images.githubusercontent.com/66789469/188531893-f61b1276-8561-4e91-bf0c-7dcafbd40e05.jpg)
+
+Storyboard:
+
+![Untitled (9)](https://user-images.githubusercontent.com/66789469/188534904-d555e96c-9130-465f-bd05-0114f77a2a1c.jpg)
+
+
