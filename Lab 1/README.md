@@ -137,8 +137,8 @@ Do last week’s assignment again, but this time:
 Based on the feedback received, I want to focus on the following parameters while improving my product:
 1) Novelty
   * I looked at the existing Smart Toothbrushes. Some of the existing products that are similar to my proposed idea were:
-        * Philips Sonicare 9900 Prestige 
-        * Oral-B Genius Pro 8000
+    * Philips Sonicare 9900 Prestige 
+    * Oral-B Genius Pro 8000
   * Both of these brushes interfaced with an app which showed the user which portion of the teeth they should brush and used light as an indicator.
   * Both of them used pressure/vibration to alert the user.
   * None of them used sound as a modality to alert the user.
